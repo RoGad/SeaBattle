@@ -1,0 +1,17 @@
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\obj\Debug\net6.0-windows\SeaBattle3.csproj.AssemblyReference.cache
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\obj\Debug\net6.0-windows\SeaBattle3.Form1.resources
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\obj\Debug\net6.0-windows\SeaBattle3.csproj.GenerateResource.cache
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\obj\Debug\net6.0-windows\SeaBattle3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\obj\Debug\net6.0-windows\SeaBattle3.AssemblyInfoInputs.cache
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\obj\Debug\net6.0-windows\SeaBattle3.AssemblyInfo.cs
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\obj\Debug\net6.0-windows\SeaBattle3.csproj.CoreCompileInputs.cache
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\bin\Debug\net6.0-windows\SeaBattle3.exe
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\bin\Debug\net6.0-windows\SeaBattle3.deps.json
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\bin\Debug\net6.0-windows\SeaBattle3.runtimeconfig.json
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\bin\Debug\net6.0-windows\SeaBattle3.dll
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\bin\Debug\net6.0-windows\SeaBattle3.pdb
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\obj\Debug\net6.0-windows\SeaBattle3.dll
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\obj\Debug\net6.0-windows\refint\SeaBattle3.dll
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\obj\Debug\net6.0-windows\SeaBattle3.pdb
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\obj\Debug\net6.0-windows\SeaBattle3.genruntimeconfig.cache
+C:\Users\RoGad\source\repos\SeaBattle3\SeaBattle3\obj\Debug\net6.0-windows\ref\SeaBattle3.dll
